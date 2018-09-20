@@ -19,3 +19,5 @@ This work is not licensed in any way, shape or form, feel free to reverse engine
 
 
 Ps I can't afford the (at least) $99 for a code signing certificate, so when you install the software you will have to accept that it is not digitally signed. Sorry!
+
+Pps After downloading you need to make sure that you have unblocked all the resx files to allow the application to run in Visual Studio, this can be done by right clicking the file, selecting Properties and ticking the Unblock checkbox.
